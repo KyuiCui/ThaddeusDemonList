@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+            {
+            "user": "Thaddy",
+            "link": "https://www.youtube.com/watch?v=6gJrSA-4oEE",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
