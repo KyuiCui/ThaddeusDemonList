@@ -3,8 +3,8 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: linear-gradient(45deg, #ec7063, #ff9a76); /* Gradient example */
-    --color-on-primary: white;
+    --color-primary: linear-gradient(45deg, #ec7063, #ff9a76); /* Gradient for background */
+    --color-on-primary: white; /* Solid color for text on primary background */
     --color-error: #de0000;
     --color-on-error: white;
 }
@@ -16,9 +16,9 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: linear-gradient(45deg, #283593, #5c6bc0); /* Gradient example for dark mode */
+    --color-primary: linear-gradient(45deg, #283593, #5c6bc0); /* Gradient for dark mode */
     --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-on-primary: white; /* Solid color for text on dark primary background */
     --color-error: #de0000;
     --color-on-error: white;
 }
