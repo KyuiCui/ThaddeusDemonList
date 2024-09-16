@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "Daliscreator",
+            "link": "https://www.youtube.com/watch?v=FONxPX_OSzo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KyuiCuiii",
+            "link": "https://www.youtube.com/watch?v=7-EHrxpAg4g",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
