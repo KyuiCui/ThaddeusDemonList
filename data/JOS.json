@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=h2qBYBlTnYg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "oopsied",
+            "link": "https://youtu.be/m738WMTQu1o",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
