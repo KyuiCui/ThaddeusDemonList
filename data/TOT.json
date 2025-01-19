@@ -9,5 +9,9 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+            "user": "ennea",
+            "link": "https://www.youtube.com/watch?v=pt0mBp6kThc",
+            "percent": 100,
+            "hz": 240
     ]
 }
