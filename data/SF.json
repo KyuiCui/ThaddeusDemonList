@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=EQrm7ZvmN7g",
             "percent": 100,
             "hz": 360
+        },
+            {
+            "user": "ennea",
+            "link": "https://youtu.be/EfS5Tn9MhZE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
